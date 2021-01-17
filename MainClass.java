@@ -135,8 +135,8 @@ private static void banner() {
 			"                                                ");
 	System.out.println("[-----------------------------------------------------]");
 	System.out.println("[ Version     : 2.0 - Public Edition                  ]");
-	System.out.println("[ Coded by    : Black.Hacker - Black Ninja Team       ]");
-	System.out.println("[ Copyright   : Dark Software Company - 2018          ]");
+	System.out.println("[ Coded by    : Awais khan Security Researcher     ]");
+	System.out.println("[ Copyright   : Cyberatic Security - 2018          ]");
 	System.out.println("[-----------------------------------------------------]\n");
 
 }
